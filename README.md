@@ -12,6 +12,6 @@
 
 №|	Описание|	Ссылка на работу|
 :---|:---|:---
-**1**||[_Код_](https://github.com/mariashur/python-dh-hw/blob/master/HW1.ipynb)|
-**2**||[_Код_](https://github.com/mariashur/python-dh-hw/blob/master/HW2.ipynb)|
+**1**|Пингвины|[_Код_](https://github.com/mariashur/python-dh-hw/blob/master/HW1.ipynb)|
+**2**|Кошки|[_Код_](https://github.com/mariashur/python-dh-hw/blob/master/HW2.ipynb)|
 **3**||[_Код_]()|
